@@ -7,7 +7,7 @@
 
 <img src="NewGIF_banner.gif" alt='Banner gif, Dokkaebi (R6), WatchDogs 2 (Tidis mission)' width="100%" height="100%" controls autoplay muted loop> 
 
-[©Ubisoft](https://www.ubisoft.com/) , [Rainbow Six Siege](https://www.ubisoft.com/fr-fr/game/rainbow-six/siege), [Watch Dogs 2](https://www.ubisoft.com/en-us/game/watch-dogs/watch-dogs-2)
+[©Ubisoft](https://www.ubisoft.com/) , [Rainbow Six Siege](https://www.ubisoft.com/en-us/game/rainbow-six/siege), [Watch Dogs 2](https://www.ubisoft.com/en-us/game/watch-dogs/watch-dogs-2)
 
 
 
