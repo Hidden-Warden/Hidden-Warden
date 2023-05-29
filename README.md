@@ -1,6 +1,6 @@
 <h1> 
   B L U M E
-    <img src="https://static.wikia.nocookie.net/watchdogscombined/images/d/dc/Ctos-logo-white.svg" alt="Blume Logo" width="20%" align="center" style="float:right">
+    <img src="https://static.wikia.nocookie.net/watchdogscombined/images/d/dc/Ctos-logo-white.svg" alt="ctOS logo" width="20%" align="center" style="float:right">
   </h1>
   
 
@@ -17,4 +17,10 @@
   
   
        :| 📚🍃✨🍃☕ |:   
-    
+
+
+Credit:
+- https://watchdogs.fandom.com/wiki/CtOS?file=Ctos-logo-white.svg | "ctOS logo"
+- .gif:
+  - https://twitter.com/R6esports/status/1650144242411491329
+  - Footage recorded from Watch Dogs 2   
