@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
   <h1> Hello world!
-      <img src="https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/aoQeHLohcuqvubBoyrzsM/d4a230ecba495c58c5521e10d5d84baa/Y2S4_BADGE_Dokkaebi_L.png" width="10%" alt="Logo" align="center">
+      <img src="https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/aoQeHLohcuqvubBoyrzsM/d4a230ecba495c58c5521e10d5d84baa/Y2S4_BADGE_Dokkaebi_L.png" width="10%" alt="Icon Dokkaebi" align="center">
   </h1>
 </div>
 
