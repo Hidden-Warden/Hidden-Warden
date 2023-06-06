@@ -1,7 +1,10 @@
 <h1> 
   B L U M E
-    <img src="https://static.wikia.nocookie.net/watchdogscombined/images/d/dc/Ctos-logo-white.svg" alt="ctOS logo" width="20%" align="center" style="float:right">
-  </h1>
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="./Ctos-logo-white.svg">
+   <img alt="ctOS logo" src="./Ctos-logo-blc.svg">
+  </picture>
+</h1>
   
 
 <img src="NewGIF_banner.gif" alt='Banner gif, Dokkaebi (R6), WatchDogs 2 (Tidis mission)' width="100%" height="100%" controls autoplay muted loop> 
